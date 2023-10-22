@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">tictac</string>
+    <string name="admob_Id">ca-app-pub-4789815752009741~4000886421</string>
+    <string name="admob_AddUnitID">ca-app-pub-4789815752009741/3820923026</string>
+    <string name="admob_banner">ca-app-pub-4789815752009741/2319320851</string>
+
 </resources>
